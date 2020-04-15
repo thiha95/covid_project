@@ -1,5 +1,5 @@
-# covid_project
-A Basil lab project
+# Covid News Analysis Project
+
 
 ## Dataset Description
 
